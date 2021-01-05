@@ -1,0 +1,13 @@
+
+Dec 25, 2020 16:40:22.251 NEW SESSION
+Dec 25, 2020 16:40:22.252 [10252:8084:1225/164022.242:ERROR:device_event_log_impl.cc(211)] [16:40:22.242] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Dec 25, 2020 16:43:34.456 [9224:10016:1225/164334.453:ERROR:device_event_log_impl.cc(211)] [16:43:34.453] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Dec 25, 2020 16:44:29.726 [12180:6180:1225/164429.724:ERROR:device_event_log_impl.cc(211)] [16:44:29.724] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Dec 25, 2020 16:45:53.978 [6172:1064:1225/164553.977:ERROR:device_event_log_impl.cc(211)] [16:45:53.977] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Dec 25, 2020 16:58:52.248 [5536:2336:1225/165852.245:ERROR:device_event_log_impl.cc(211)] [16:58:52.245] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Dec 25, 2020 17:03:23.551 [3788:9708:1225/170323.549:ERROR:device_event_log_impl.cc(211)] [17:03:23.549] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Dec 25, 2020 17:15:05.60 [9364:4956:1225/171505.059:ERROR:device_event_log_impl.cc(211)] [17:15:05.059] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Dec 25, 2020 17:34:37.653 [6180:12720:1225/173437.651:ERROR:device_event_log_impl.cc(211)] [17:34:37.651] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Dec 25, 2020 17:39:12.908 [9376:2528:1225/173912.906:ERROR:device_event_log_impl.cc(211)] [17:39:12.905] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Dec 25, 2020 17:39:59.35 [6200:4832:1225/173959.033:ERROR:device_event_log_impl.cc(211)] [17:39:59.032] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Dec 25, 2020 17:43:49.461 [14256:2656:1225/174349.460:ERROR:device_event_log_impl.cc(211)] [17:43:49.459] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)

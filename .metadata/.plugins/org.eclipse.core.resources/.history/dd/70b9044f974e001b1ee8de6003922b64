@@ -1,0 +1,12 @@
+package com.vicky.basicJava;
+enum Fruit{orange,apple,chickoo,banana};
+public class enumDemo {
+	public static void main(String[]args)
+	{
+	for(Fruit frut:Fruit.values())
+	{
+		System.out.println("I like fruit"+frut);
+	}
+	}
+
+}

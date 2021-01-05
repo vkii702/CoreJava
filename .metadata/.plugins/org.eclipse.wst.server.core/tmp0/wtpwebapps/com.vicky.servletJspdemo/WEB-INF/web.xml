@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<servlet>
+<servlet>
+<servlet-name>greetServlet</servlet-name>
+<servlet-class>com.vicky.servletJspdemo</servlet-class>
+</servlet>
+<servlet>
+<servlet-name>greetServlet</servlet-name>
+<url-mapping>/greetServlet</url-mapping>
+</servlet>
+<servlet>
+<servlet-name>demoServlet</servlet-name>
+<servlet-class>com.vicky.servletJspdemo</servlet-class>
+</servlet>
+<servlet>
+<servlet-name>demoServlet</servlet-name>
+<url-mapping>/demoServlet</url-mapping>
+</servlet>
+</servlet>
